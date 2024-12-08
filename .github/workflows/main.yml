@@ -2,9 +2,9 @@ name: Generate Contribution Snake
 
 # 控制工作流何时运行
 on:
-  # 每天凌晨2点触发工作流
-  schedule:
-    - cron: '0 2 * * *'
+  push:
+    branches:
+      - main
 
 jobs:
   generate-snake:
