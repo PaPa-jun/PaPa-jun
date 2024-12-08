@@ -15,7 +15,3 @@
 - 🔍 Committed to continuous learning and professional growth.
 
 ---
-
-## Contributiions
-
-![snake](./dist/github-snake.svg)
