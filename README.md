@@ -16,4 +16,6 @@
 
 ---
 
-🖇️ For more detail infomations, you can visit [my websit](https://meneither.site).
+## Contributiions
+
+![snake](./dist/github-snake.svg)
