@@ -13,5 +13,3 @@
 - 🏆 Recipient of the Academic Scholarship on two occasions.
 - 📚 Currently focusing on Data Science and Artificial Intelligence.
 - 🔍 Committed to continuous learning and professional growth.
-
----
